@@ -1,0 +1,39 @@
+.info{
+    padding-bottom: 50px;
+}
+
+.loja h1{
+    color:black;
+    text-align: left;
+}
+
+.loja{
+    font-size: 30px;
+    padding-inline: 20px;
+}
+
+.botaoCadastro{
+    background-color: #2D394B;
+    width: 240px;
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.botaoCadastro:hover{
+    background-color: #296275;
+}
+
+.campo_produtos{
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn_editar{
+    color:rgb(14, 73, 73);
+}

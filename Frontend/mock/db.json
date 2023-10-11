@@ -1,0 +1,241 @@
+{
+  "contas": [
+    {
+      "id": "1",
+      "email": "carlos",
+      "senha": "123",
+      "carrinho": [
+        {
+          "id": "1",
+          "img": "../../public/images/produtos/produto-gabinete.webp",
+          "tipo": "Gabinete",
+          "descricao": "Gabinete Gamer Redragon Brawn",
+          "preco": 349,
+          "caracteristicas": "Marca: Rise Mode, Modelo: Gabinete Rise Mode GLASS 06X BLACK – SEM FANS Especificações:Part Number: RM-CA-06X-FB, Cor: Preto, Dimensões (L x W x H): L 365mm x W 200mm x H 455mm, Fans: Suporte para 6 fans (fans não inclusos),* Produto não acompanha fans, imagem ilustrativa ",
+          "quantidade": 1
+        },
+        {
+          "img": "../../public/images/placeholder_img.jpg",
+          "categoria": "",
+          "descricao": "ssdddddddddddddddddddddddddd",
+          "preco": "",
+          "detalhes": "",
+          "id_lojista": "nHj0NJ0",
+          "id": "z0ijtxy",
+          "quantidade": 10
+        }
+      ]
+    },
+    {
+      "email": "asd",
+      "senha": "132",
+      "carrinho": [
+        {
+          "id": "1",
+          "img": "../../public/images/produtos/produto-gabinete.webp",
+          "tipo": "Gabinete",
+          "descricao": "Gabinete Gamer Redragon Brawn",
+          "preco": 349,
+          "caracteristicas": "Marca: Rise Mode, Modelo: Gabinete Rise Mode GLASS 06X BLACK – SEM FANS Especificações:Part Number: RM-CA-06X-FB, Cor: Preto, Dimensões (L x W x H): L 365mm x W 200mm x H 455mm, Fans: Suporte para 6 fans (fans não inclusos),* Produto não acompanha fans, imagem ilustrativa ",
+          "quantidade": 1
+        }
+      ],
+      "id": "WUDSn-9"
+    },
+    {
+      "email": "testeCliente",
+      "senha": "123",
+      "carrinho": [
+        {
+          "id": "2",
+          "img": "../../public/images/produtos/produto-placa mae.webp",
+          "categoria": "Placa Mãe",
+          "descricao": "Placa Mãe Biostar B560MX-E PRO",
+          "preco": "559",
+          "detalhes": "Características:- Marca: MSI- Modelo: B560M PRO-E CPU:- Suporta Processadores Intel Core de 10ª Geração, Processadores Intel Core de 11ª Geração, Processadores Pentium Gold e Celeron",
+          "id_lojista": "1",
+          "quantidade": 4
+        },
+        {
+          "id": "1",
+          "img": "../../public/images/produtos/produto-gabinete.webp",
+          "tipo": "Gabinete",
+          "descricao": "Gabinete Gamer Redragon Brawn",
+          "preco": 349,
+          "caracteristicas": "Marca: Rise Mode, Modelo: Gabinete Rise Mode GLASS 06X BLACK – SEM FANS Especificações:Part Number: RM-CA-06X-FB, Cor: Preto, Dimensões (L x W x H): L 365mm x W 200mm x H 455mm, Fans: Suporte para 6 fans (fans não inclusos),* Produto não acompanha fans, imagem ilustrativa ",
+          "quantidade": 1
+        },
+        {
+          "id": "3",
+          "img": "../../public/images/produtos/produto-processador.jpg",
+          "tipo": "Processador",
+          "descricao": "Processador AMD Ryzen 5 4600G 3.7GHz",
+          "preco": 489,
+          "caracteristicas": "Plataforma: Computador de mesa | Família de produto: AMD Ryzen Processors | Linha de produto: D Ryzen 5 4000 G-Series Desktop Processors with Radeon™ Graphics | Nº de núcleos de CPU: 6 | Nº de threads: 12 | Clock de Max Boost: Até 4.2GHz | Clock básico: 3.7GHz",
+          "quantidade": 1
+        }
+      ],
+      "id": "Z8dqizY"
+    },
+    {
+      "email": "rodrigo@email.com",
+      "senha": "1234",
+      "id_carrinho": "3",
+      "id": "YMu190H"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "img": "../../public/images/produtos/produto-gabinete.webp",
+      "categoria": "Gabinete",
+      "descricao": "Gabinete Gamer Redragon Brawn",
+      "preco": "200.32",
+      "detalhes": "Marca: Rise Mode, Modelo: Gabinete Rise Mode GLASS 06X BLACK – SEM FANS Especificações:Part Number: RM-CA-06X-FB, Cor: Preto, Dimensões (L x W x H): L 365mm x W 200mm x H 455mm, Fans: Suporte para 6 fans (fans não inclusos),* Produto não acompanha fans, imagem ilustrativa ",
+      "id_lojista": "1"
+    },
+    {
+      "id": "2",
+      "img": "../../public/images/produtos/produto-placa mae.webp",
+      "categoria": "Placa Mãe",
+      "descricao": "Placa Mãe Biostar B560MX-E PRO",
+      "preco": "559",
+      "detalhes": "Características:- Marca: MSI- Modelo: B560M PRO-E CPU:- Suporta Processadores Intel Core de 10ª Geração, Processadores Intel Core de 11ª Geração, Processadores Pentium Gold e Celeron",
+      "id_lojista": "1"
+    },
+    {
+      "id": "3",
+      "img": "../../public/images/produtos/produto-processador.jpg",
+      "categoria": "Processador",
+      "descricao": "Processador AMD Ryzen 5 4600G 3.7GHz",
+      "preco": "489",
+      "detalhes": "Plataforma: Computador de mesa | Família de produto: AMD Ryzen Processors | Linha de produto: D Ryzen 5 4000 G-Series Desktop Processors with Radeon™ Graphics | Nº de núcleos de CPU: 6 | Nº de threads: 12 | Clock de Max Boost: Até 4.2GHz | Clock básico: 3.7GHz",
+      "id_lojista": "1"
+    },
+    {
+      "id": "4",
+      "img": "../../public/images/produtos/produto-monitor.jpg",
+      "categoria": "Monitor",
+      "descricao": "Monitor Gamer Samsung T350",
+      "preco": "899",
+      "detalhes": "Monitor Samsung Gamer 22 Fhd 75hz Hdmi Vga Freesync Preto Série T350 - Lf22t350fhlmzd",
+      "id_lojista": "1"
+    },
+    {
+      "img": "../../public/images/placeholder_img.jpg",
+      "categoria": "placas gráficas",
+      "descricao": "placa de vídeo 2",
+      "preco": "sadas",
+      "detalhes": "asdas",
+      "id_lojista": "nHj0NJ0",
+      "id": "7gZZq7J"
+    },
+    {
+      "img": "../../public/images/placeholder_img.jpg",
+      "categoria": "",
+      "descricao": "ssssssssssssssssss",
+      "preco": "",
+      "detalhes": "",
+      "id_lojista": "nHj0NJ0",
+      "id": "_leiWyn"
+    },
+    {
+      "img": "../../public/images/placeholder_img.jpg",
+      "categoria": "",
+      "descricao": "ssdddddddddddddddddddddddddd",
+      "preco": "",
+      "detalhes": "",
+      "id_lojista": "nHj0NJ0",
+      "id": "z0ijtxy"
+    }
+  ],
+  "carrinho": [
+    {
+      "id": "1",
+      "id_conta": "1",
+      "produtos": [
+        {
+          "id": "1",
+          "img": "../../public/images/produtos/produto-gabinete.webp",
+          "tipo": "Gabinete",
+          "descricao": "Gabinete Gamer Redragon Brawn",
+          "preco": 349,
+          "caracteristicas": "Marca: Rise Mode, Modelo: Gabinete Rise Mode GLASS 06X BLACK – SEM FANS Especificações:Part Number: RM-CA-06X-FB, Cor: Preto, Dimensões (L x W x H): L 365mm x W 200mm x H 455mm, Fans: Suporte para 6 fans (fans não inclusos),* Produto não acompanha fans, imagem ilustrativa ",
+          "quantidade": 2
+        },
+        {
+          "id": "3",
+          "img": "../../public/images/produtos/produto-processador.jpg",
+          "tipo": "Processador",
+          "descricao": "Processador AMD Ryzen 5 4600G 3.7GHz",
+          "preco": 489,
+          "caracteristicas": "Plataforma: Computador de mesa | Família de produto: AMD Ryzen Processors | Linha de produto: D Ryzen 5 4000 G-Series Desktop Processors with Radeon™ Graphics | Nº de núcleos de CPU: 6 | Nº de threads: 12 | Clock de Max Boost: Até 4.2GHz | Clock básico: 3.7GHz",
+          "quantidade": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "id_conta": "WUDSn-9",
+      "produtos": [
+        {
+          "id": "2",
+          "img": "../../public/images/produtos/produto-placa mae.webp",
+          "tipo": "Placa Mãe",
+          "descricao": "Placa Mãe Biostar B560MX-E PRO",
+          "preco": 559,
+          "caracteristicas": "Características:- Marca: MSI- Modelo: B560M PRO-E CPU:- Suporta Processadores Intel Core de 10ª Geração, Processadores Intel Core de 11ª Geração, Processadores Pentium Gold e Celeron",
+          "quantidade": 1
+        },
+        {
+          "id": "3",
+          "img": "../../public/images/produtos/produto-processador.jpg",
+          "tipo": "Processador",
+          "descricao": "Processador AMD Ryzen 5 4600G 3.7GHz",
+          "preco": 489,
+          "caracteristicas": "Plataforma: Computador de mesa | Família de produto: AMD Ryzen Processors | Linha de produto: D Ryzen 5 4000 G-Series Desktop Processors with Radeon™ Graphics | Nº de núcleos de CPU: 6 | Nº de threads: 12 | Clock de Max Boost: Até 4.2GHz | Clock básico: 3.7GHz",
+          "quantidade": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "id_conta": "Z8dqizY",
+      "produtos": []
+    },
+    {
+      "id": "4",
+      "id_conta": "YMu190H",
+      "produtos": []
+    }
+  ],
+  "lojas": [
+    {
+      "id": "1",
+      "cnpj": "9999-9999",
+      "nome": "loja 1",
+      "endereco": "rua canabarro",
+      "email": "loja1@gmail.com",
+      "senha": "123",
+      "telefone": "222"
+    },
+    {
+      "cnpj": "asd",
+      "nome": "asda",
+      "endereco": "sd",
+      "email": "asd",
+      "senha": "123",
+      "telefone": "333",
+      "id": "nHj0NJ0"
+    },
+    {
+      "cnpj": "loja teste",
+      "nome": "teste loja",
+      "endereco": "rua 2 de março",
+      "email": "testeLojista",
+      "senha": "123",
+      "telefone": "333",
+      "id": "nHj0N2"
+    }
+  ]
+}
