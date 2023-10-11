@@ -16,7 +16,7 @@ Plataforma de venda de hardwares e periféricos para computadores.
 <br>
 ``` npm run dev ```
 <br>
-3 - No backend execute: 
+3 - No backend/infoNeo execute: 
 <br>
 ``` npm install ``` 
 <br>
