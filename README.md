@@ -3,8 +3,8 @@
 Plataforma de venda de hardwares e periféricos para computadores.
 
 ## Integrantes do grupo
-- Carlos Henrique
-- Marcos Samuel
+- [Carlos Henrique](https://github.com/Carlos-H1307)
+- [Marcos Samuel](https://github.com/marcos-2002)
 - Rodrigo Marques
 
 ## Executando o projeto:
